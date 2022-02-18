@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "run": "node $NODE_DEBUG_OPTION app.js"
+    "run": "node $NODE_DEBUG_OPTION app.js",
+    "test": "mocha"
   },
   "author": "",
   "license": "ISC",
@@ -16,7 +17,10 @@
     "express": "~4.17.1",
     "express-validator": "^6.12.0",
     "logger": "0.0.1",
+    "mocha": "^9.2.0",
     "mongoose": "^5.13.2",
+    "nodemon": "^2.0.15",
+    "supertest": "^6.2.2",
     "winston": "~2.4.0"
   }
 }

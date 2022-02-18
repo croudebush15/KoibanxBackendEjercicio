@@ -10,6 +10,10 @@ UserSchema.methods.verifyPassword = function (password) {
     return bcrypt.compareSync(password, this.password)
 };
 
+UserSchema.methods.removeUserPassword = function(){
+    this.password = "";
+}
+
 UserSchema.pre('save', async function (callback) {
     let user = this;
 

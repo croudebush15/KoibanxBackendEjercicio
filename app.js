@@ -7,10 +7,16 @@ const app = express()
 const dotenv = require('dotenv');
 dotenv.config();
 const config = require('config');
-mongoose.connect('mongodb://' + config.get('mongodb.address') + '/' + config.get('mongodb.dbname'), { useNewUrlParser: true, useUnifiedTopology: true });
-require('./utils/initializer').init()
+const basicAuth = require('./utils/basicAuth');
+const errorHandler = require('./utils/errorHandler');
 
+mongoose.connect('mongodb://' + config.get('mongodb.address') + '/' + config.get('mongodb.dbname'), { useNewUrlParser: true, useUnifiedTopology: true });
+require('./utils/initializer').init();
+
+app.use(express.json());
+app.use(basicAuth);
 app.use('/api', require('./routes/stores'));
+app.use(errorHandler);
 
 // Start the server
 app.listen(config.get('port'));

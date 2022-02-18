@@ -1,0 +1,212 @@
+[
+    {
+        "concepts": [
+            "Concept 1",
+            "Concept 2",
+            "Concept 3",
+            "Concept 4",
+            "Concept 5",
+            "Concept 6"
+        ],
+        "active": true,
+        "_id": "620e73cdcb24aa56cce8a366",
+        "name": "Store A",
+        "cuit": "20-29888144-7",
+        "currentBalance": 1000,
+        "lastSale": "2022-02-16T00:00:00.000Z",
+        "createdAt": "2022-02-17T16:11:57.191Z",
+        "updatedAt": "2022-02-17T16:11:57.191Z",
+        "__v": 0
+    },
+    {
+        "concepts": [
+            "Concept 1",
+            "Concept 2",
+            "Concept 3",
+            "Concept 4",
+            "Concept 5",
+            "Concept 6"
+        ],
+        "active": true,
+        "_id": "620e73d8cb24aa56cce8a369",
+        "name": "Store B",
+        "cuit": "20-29888144-7",
+        "currentBalance": 1000,
+        "lastSale": "2022-02-16T00:00:00.000Z",
+        "createdAt": "2022-02-17T16:12:08.618Z",
+        "updatedAt": "2022-02-17T16:12:08.618Z",
+        "__v": 0
+    },
+    {
+        "concepts": [
+            "Concept 1",
+            "Concept 2",
+            "Concept 3",
+            "Concept 4",
+            "Concept 5",
+            "Concept 6"
+        ],
+        "active": true,
+        "_id": "620e73dccb24aa56cce8a36c",
+        "name": "Store C",
+        "cuit": "20-29888144-7",
+        "currentBalance": 1000,
+        "lastSale": "2022-02-16T00:00:00.000Z",
+        "createdAt": "2022-02-17T16:12:12.686Z",
+        "updatedAt": "2022-02-17T16:12:12.686Z",
+        "__v": 0
+    },
+    {
+        "concepts": [
+            "Concept 1",
+            "Concept 2",
+            "Concept 3",
+            "Concept 4",
+            "Concept 5",
+            "Concept 6"
+        ],
+        "active": true,
+        "_id": "620e73e0cb24aa56cce8a36f",
+        "name": "Store D",
+        "cuit": "20-29888144-7",
+        "currentBalance": 1000,
+        "lastSale": "2022-02-16T00:00:00.000Z",
+        "createdAt": "2022-02-17T16:12:16.515Z",
+        "updatedAt": "2022-02-17T16:12:16.515Z",
+        "__v": 0
+    },
+    {
+        "concepts": [
+            "Concept 1",
+            "Concept 2",
+            "Concept 3",
+            "Concept 4",
+            "Concept 5",
+            "Concept 6"
+        ],
+        "active": true,
+        "_id": "620e73e4cb24aa56cce8a372",
+        "name": "Store E",
+        "cuit": "20-29888144-7",
+        "currentBalance": 1000,
+        "lastSale": "2022-02-16T00:00:00.000Z",
+        "createdAt": "2022-02-17T16:12:20.797Z",
+        "updatedAt": "2022-02-17T16:12:20.797Z",
+        "__v": 0
+    },
+    {
+        "concepts": [
+            "Concept 1",
+            "Concept 2",
+            "Concept 3",
+            "Concept 4",
+            "Concept 5",
+            "Concept 6"
+        ],
+        "active": true,
+        "_id": "620e73e8cb24aa56cce8a375",
+        "name": "Store F",
+        "cuit": "20-29888144-7",
+        "currentBalance": 1000,
+        "lastSale": "2022-02-16T00:00:00.000Z",
+        "createdAt": "2022-02-17T16:12:24.767Z",
+        "updatedAt": "2022-02-17T16:12:24.767Z",
+        "__v": 0
+    },
+    {
+        "concepts": [
+            "Concept 1",
+            "Concept 2",
+            "Concept 3",
+            "Concept 4",
+            "Concept 5",
+            "Concept 6"
+        ],
+        "active": true,
+        "_id": "620e73eccb24aa56cce8a378",
+        "name": "Store G",
+        "cuit": "20-29888144-7",
+        "currentBalance": 1000,
+        "lastSale": "2022-02-16T00:00:00.000Z",
+        "createdAt": "2022-02-17T16:12:28.454Z",
+        "updatedAt": "2022-02-17T16:12:28.454Z",
+        "__v": 0
+    },
+    {
+        "concepts": [
+            "Concept 1",
+            "Concept 2",
+            "Concept 3",
+            "Concept 4",
+            "Concept 5",
+            "Concept 6"
+        ],
+        "active": true,
+        "_id": "620e73f0cb24aa56cce8a37b",
+        "name": "Store H",
+        "cuit": "20-29888144-7",
+        "currentBalance": 1000,
+        "lastSale": "2022-02-16T00:00:00.000Z",
+        "createdAt": "2022-02-17T16:12:32.221Z",
+        "updatedAt": "2022-02-17T16:12:32.221Z",
+        "__v": 0
+    },
+    {
+        "concepts": [
+            "Concept 1",
+            "Concept 2",
+            "Concept 3",
+            "Concept 4",
+            "Concept 5",
+            "Concept 6"
+        ],
+        "active": true,
+        "_id": "620e73f4cb24aa56cce8a37e",
+        "name": "Store I",
+        "cuit": "20-29888144-7",
+        "currentBalance": 1000,
+        "lastSale": "2022-02-16T00:00:00.000Z",
+        "createdAt": "2022-02-17T16:12:36.190Z",
+        "updatedAt": "2022-02-17T16:12:36.190Z",
+        "__v": 0
+    },
+    {
+        "concepts": [
+            "Concept 1",
+            "Concept 2",
+            "Concept 3",
+            "Concept 4",
+            "Concept 5",
+            "Concept 6"
+        ],
+        "active": true,
+        "_id": "620e73f8cb24aa56cce8a381",
+        "name": "Store J",
+        "cuit": "20-29888144-7",
+        "currentBalance": 1000,
+        "lastSale": "2022-02-16T00:00:00.000Z",
+        "createdAt": "2022-02-17T16:12:40.695Z",
+        "updatedAt": "2022-02-17T16:12:40.695Z",
+        "__v": 0
+    },
+    {
+        "concepts": [
+            "Concept 1",
+            "Concept 2",
+            "Concept 3",
+            "Concept 4",
+            "Concept 5",
+            "Concept 6"
+        ],
+        "active": true,
+        "_id": "620e7406cb24aa56cce8a384",
+        "name": "Store K",
+        "cuit": "20-29888144-7",
+        "currentBalance": 1000,
+        "lastSale": "2022-02-16T00:00:00.000Z",
+        "createdAt": "2022-02-17T16:12:54.010Z",
+        "updatedAt": "2022-02-17T16:12:54.010Z",
+        "__v": 0
+    }
+]
+    
