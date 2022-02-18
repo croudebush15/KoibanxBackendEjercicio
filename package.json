@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "run": "node $NODE_DEBUG_OPTION app.js",
     "test": "mocha"
   },
