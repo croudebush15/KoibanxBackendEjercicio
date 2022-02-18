@@ -3,3 +3,5 @@ Debe asegurar que existe el archivo .env. Este projecto se ha trabajado con los 
 Se ha agregado el archivo stores.json para poder llenar mongoDB con datos de prueba.
 
 Correr con npm start.
+
+Correr pruebas con npm test.
